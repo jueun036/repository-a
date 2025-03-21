@@ -4,6 +4,8 @@ Jueun Park, 202400650, Computer Science Engineerig
 
 int main()
 {
+  int a;
   printf("Hello World");
+  
   return 0;
 }
